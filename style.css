@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Lato', 'Helvetica Neue', Georgia, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: purple;
+  background: #E556CD;
   color: white;
 }
 header .container {
@@ -188,6 +188,9 @@ section h2 {
 section.success {
   background: #18BC9C;
   color: white;
+}
+#portfolio1{
+  background-color:#DAF7A6;
 }
 @media (max-width: 767px) {
   section {
